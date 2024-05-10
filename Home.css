@@ -92,7 +92,13 @@
   #name{
     font-style:italic;
      color:blue;
+    animation-name:logo-color;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
   } 
+    @keyframes logo-color{
+        30%{color:red; font-size:90px;}
+    }
   h1{
     font-size:60px; 
     color:rgba(246,147,42,0.995);
