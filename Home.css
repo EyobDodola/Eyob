@@ -63,16 +63,17 @@
         font-weight:bold;
         font-size:30px; 
         font-family:'Georgia';
+        display:inline-block;
       }
       span{
         color:rgba(189,16,186,0.688);
       }
       li{
         list-style: none;
-        display: inline-block;
+        display:inline-block;
         }
         ul{
-          display: inline-block;
+          display:inline-block;
           padding-left:242px;
           word-spacing:25px; 
         }
