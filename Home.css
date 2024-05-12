@@ -69,7 +69,8 @@
         color:rgba(189,16,186,0.688);
       }
       li{
-        list-style: none;
+        margin-top:2px;
+        list-style:none;
         display:inline-block;
         }
         ul{
