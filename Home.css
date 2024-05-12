@@ -79,15 +79,15 @@
         }
     a{
       font-weight:bold;
-      font-size :20px;   
+      font-size:20px;   
       background-color:#00a6fe;
       color:white; 
        border:none;
-       border-radius :10px;
+       border-radius:10px;
        }
     a:hover{
       color:#00a6fe;
-      background :white;
+      background:white;
       border:solid;
     }
   #name{
